@@ -29,5 +29,8 @@ function got_poses(results){
     }
 }
 function draw(){
-    
+   background("white");
+   textSize(diferenca);
+   fill("black")
+   text("sei que nada sei",pulso_dir_x=100,pulso_esq_x=100);
 }
